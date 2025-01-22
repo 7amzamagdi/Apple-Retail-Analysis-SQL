@@ -6,11 +6,11 @@ Welcome to the **Apple Retail Sales Analysis** project! This repository showcase
 
 ## 🔍 Table of Contents
 
-1. [📊 Project Overview](#project-overview)
-2. [🔹 Database Schema](#database-schema)
-3. [✨ Skills and Techniques](#skills-and-techniques)
-4. [❗ Key Business Questions Answered](#key-business-questions-answered)
-5. [🚀 Conclusion](#conclusion)
+1. [📊 Project Overview](#-project-overview)
+2. [🔹 Database Schema](#-database-schema)
+3. [✨ Skills and Techniques](#-skills-and-techniques)
+4. [❗ Key Business Questions Answered](#-key-business-questions-answered)
+5. [🚀 Conclusion](#-conclusion)
 
 ---
 
@@ -44,10 +44,6 @@ For detailed table definitions, refer to [schema](https://github.com/7amzamagdi/
 
 This project highlights the following SQL skills:
 
-### ⚙️ Performance Optimization
-
-- ⏳ Created indexes to enhance query speed.
-- 🚀 Reduced query execution time by over 95%.
 
 ### 🔄 Advanced Querying
 
