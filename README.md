@@ -36,7 +36,7 @@ The database comprises the following tables:
 - **💵 sales**: Sales transactions (e.g., sale date, store ID, product ID, quantity).
 - **🛑 warranty**: Warranty claims (e.g., claim date, repair status).
 
-For detailed table definitions, refer to [schema.sql](schema.sql).
+For detailed table definitions, refer to [schema](https://github.com/7amzamagdi/Apple-Retail-Analysis-SQL/blob/main/ERD%20For%20DataBase.png).
 
 ---
 
@@ -88,7 +88,7 @@ Whether you’re a data enthusiast or a business professional, this repository p
 
 ## 🔎 Explore the Repository
 
-- [schema.sql](schema.sql): Database schema definitions.
+- [schema](https://github.com/7amzamagdi/Apple-Retail-Analysis-SQL/blob/main/ERD%20For%20DataBase.png).: Database schema definitions.
 - [queries.sql](queries.sql): SQL queries used in the analysis.
 
 Feel free to fork this repository, experiment with the queries, and share your insights!
