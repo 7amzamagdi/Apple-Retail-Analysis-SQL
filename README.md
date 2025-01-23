@@ -1,3 +1,5 @@
+![MasterHead](https://wpuploads.appadvice.com/wp-content/uploads/2010/08/banner182.gif)
+
 # 🍏 Apple Retail Sales Analysis
 
 Welcome to the **Apple Retail Sales Analysis** project! This repository showcases advanced SQL querying techniques applied to a dataset of over 1 million rows from Apple retail sales. The analysis demonstrates how to optimize query performance, solve real-world business problems, and extract actionable insights from complex datasets.
